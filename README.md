@@ -1,0 +1,2 @@
+# gossip
+SIP / WebRTC adapter
